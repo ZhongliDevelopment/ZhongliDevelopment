@@ -19,4 +19,4 @@ Here are some of my notable projects:
 
 ## Contact Me
 
-You can reach me via email at [zhonglidevelopment@gmail.com](mailto:zhongli.development100@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/zhonglidevelopment/). I am also available on [Twitter](https://twitter.com/ZhongliDev) and [Discord](https://discord.gg/zhonglidev).
+You can reach me via email at [zhongli.development100@gmail.com](mailto:zhongli.development100@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/zhonglidevelopment/). I am also available on [Twitter](https://twitter.com/ZhongliDev) and [Discord](https://discord.gg/zhonglidev).
